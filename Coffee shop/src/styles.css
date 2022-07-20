@@ -1,0 +1,92 @@
+
+body {
+    background-image: url("../img/coffee_and_table.jpg");
+     font-family: 'Montserrat', sans-serif;
+
+     
+}
+h1 {
+    color: white;
+    font-size: 60px;
+    font-weight: 900;
+    margin-bottom: 24px;
+}
+
+h2 {
+    color: #a0a6b1;
+    font-weight: 200;
+}
+ul {
+    list-style: none;
+     margin: 0;
+  padding: 0;
+}
+li {
+    display: inline;
+    padding: 18px 18px 18px 0;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.container {
+    margin: 20px 20px;
+}
+
+li.speacial-line {
+     color: #a0a6b1;
+}
+
+li.speacial-line:hover {
+    text-decoration: underline;
+    color: white;
+}
+button:hover {
+    color: white;
+    background-color: orange;
+}
+
+.heading-one {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+
+.heading-two {
+    padding-bottom: 25px;
+}
+
+li.brand {
+    color: white;
+    font-weight: 700;
+}
+
+div.container-card {
+    padding: 10px;
+    background-color: #2D2C2F;
+    border: 1px solid orange;
+    border-radius: 10px;
+    display: flexbox;
+    width: 930px;
+    display: block;
+    margin: 40px 0 auto;
+    justify-content: space-evenly;
+}
+
+.prices {
+    color: orange;
+    font-weight: 600;
+}
+.button-align {
+    text-align: right;
+}
+
+.col-md-4 {
+    padding: 0;
+}
+.mb-3:hover {
+    border-color: orange;
+}
