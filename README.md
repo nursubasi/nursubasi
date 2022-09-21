@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my Weather App.
-- 🌱 I’m currently learning HTML, CSS And JavaScript and I want to learn React.
+- 🔭 I’m currently working on my Dictionary App. 
+- 📚My works are based on HTML, CSS, JavaScript and React.
+- 🌱 I’m currently learning C#.
 - 😄 Pronouns: She/her
 
 
