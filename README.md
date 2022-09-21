@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my Dictionary App. 
-- 📚My works are based on HTML, CSS, JavaScript and React.
+- 📚 My works are based on HTML, CSS, JavaScript and React.
 - 🌱 I’m currently learning C#.
 - 😄 Pronouns: She/her
 
